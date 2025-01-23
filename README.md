@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masachika-alisa&show_icons=true&locale=en&layout=compact" alt="masachika-alisa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masachika-alisa&" alt="masachika-alisa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-Hyuga&" alt="masachika-alisa" /></p>
